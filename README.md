@@ -1,4 +1,5 @@
 <h1 style="font-family: Arial, sans-serif;">DevOps Profile 💻</h1>
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--xAAdUtiT--/c_imagga_scale,f_auto,fl_progressive,h_500,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/zu5cr0j2qczswka4wh39.gif" alt="Animation">
 
 <h2 style="font-family: Arial, sans-serif;">Introduction 🚀</h2>
 <p style="font-family: Arial, sans-serif;">Welcome to my DevOps profile! I'm passionate about leveraging automation, continuous integration, and continuous delivery to streamline software development processes. With experience in cloud platforms, containerization, and infrastructure as code, I strive to optimize workflows and enhance collaboration between development and operations teams.</p>
@@ -28,7 +29,4 @@
 <p style="font-family: Arial, sans-serif;">Specify the license for your README file and associated content, such as MIT License or Creative Commons.</p>
 
 ---
-
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--xAAdUtiT--/c_imagga_scale,f_auto,fl_progressive,h_500,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/zu5cr0j2qczswka4wh39.gif" alt="Animation">
-
 <p style="font-family: Arial, sans-serif;">Feel free to customize this template according to your specific experiences, projects, and achievements. A well-crafted README file can effectively showcase your skills and attract potential collaborators or employers in the DevOps field.</p>
