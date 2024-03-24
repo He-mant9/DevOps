@@ -19,14 +19,4 @@
 <p style="font-family: Arial, sans-serif;"><strong>GitHub:</strong> <a href="https://github.com/He-mant9">Your GitHub Profile</a></p>
 <p style="font-family: Arial, sans-serif;"><strong>Email:</strong>kumarkhambait20@gmail.com</p>
 
-<h2 style="font-family: Arial, sans-serif;">Recommendations 🌟</h2>
-<p style="font-family: Arial, sans-serif;">Include recommendations or endorsements from colleagues or supervisors, highlighting your skills and accomplishments in DevOps roles.</p>
 
-<h2 style="font-family: Arial, sans-serif;">Acknowledgements 🙏</h2>
-<p style="font-family: Arial, sans-serif;">Acknowledge any mentors, teams, or communities that have supported and inspired you in your DevOps journey.</p>
-
-<h2 style="font-family: Arial, sans-serif;">License 📝</h2>
-<p style="font-family: Arial, sans-serif;">Specify the license for your README file and associated content, such as MIT License or Creative Commons.</p>
-
----
-<p style="font-family: Arial, sans-serif;">Feel free to customize this template according to your specific experiences, projects, and achievements. A well-crafted README file can effectively showcase your skills and attract potential collaborators or employers in the DevOps field.</p>
