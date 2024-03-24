@@ -12,26 +12,11 @@
     <li><strong>Monitoring and Logging:</strong> Proficient in setting up monitoring and logging solutions using tools like Prometheus, Grafana, ELK Stack, and Splunk to ensure system health and troubleshoot issues proactively.</li>
 </ul>
 
-<h2 style="font-family: Arial, sans-serif;">Projects 🚧</h2>
-<h3 style="font-family: Arial, sans-serif;">Project 1: [Project Name]</h3>
-<p style="font-family: Arial, sans-serif;"><strong>Description:</strong> Brief description of the project and its objectives.</p>
-<p style="font-family: Arial, sans-serif;"><strong>Technologies Used:</strong> List of technologies and tools employed in the project.</p>
-<p style="font-family: Arial, sans-serif;"><strong>Key Contributions:</strong> Highlight your key contributions to the project, such as designing the CI/CD pipeline, automating infrastructure provisioning, or optimizing system performance.</p>
-
-<h3 style="font-family: Arial, sans-serif;">Project 2: [Project Name]</h3>
-<p style="font-family: Arial, sans-serif;"><strong>Description:</strong> Brief description of the project and its objectives.</p>
-<p style="font-family: Arial, sans-serif;"><strong>Technologies Used:</strong> List of technologies and tools employed in the project.</p>
-<p style="font-family: Arial, sans-serif;"><strong>Key Contributions:</strong> Highlight your key contributions to the project, such as implementing containerization with Docker and Kubernetes or integrating monitoring and logging solutions.</p>
-
-<h2 style="font-family: Arial, sans-serif;">Contributions 🌟</h2>
-<p style="font-family: Arial, sans-serif;"><strong>Open Source Contributions:</strong> List any contributions you've made to open-source projects related to DevOps tools or practices.</p>
-<p style="font-family: Arial, sans-serif;"><strong>Blog Posts/Articles:</strong> Link to any blog posts or articles you've written on DevOps topics, sharing insights, tutorials, or best practices.</p>
 
 <h2 style="font-family: Arial, sans-serif;">Contact 📞</h2>
-<p style="font-family: Arial, sans-serif;"><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/yourprofile">Your LinkedIn Profile</a></p>
-<p style="font-family: Arial, sans-serif;"><strong>GitHub:</strong> <a href="https://github.com/yourprofile">Your GitHub Profile</a></p>
-<p style="font-family: Arial, sans-serif;"><strong>Email:</strong> your.email@example.com</p>
-<p style="font-family: Arial, sans-serif;"><strong>Website/Blog:</strong> <a href="https://yourwebsite.com">Your Website/Blog</a></p>
+<p style="font-family: Arial, sans-serif;"><strong>LinkedIn:</strong> <a href="[https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/hemant-khambait-96ab12206/)">Your LinkedIn Profile</a></p>
+<p style="font-family: Arial, sans-serif;"><strong>GitHub:</strong> <a href="[https://github.com/yourprofile](https://github.com/He-mant9)">Your GitHub Profile</a></p>
+<p style="font-family: Arial, sans-serif;"><strong>Email:</strong>kumarkhambait20@gmail.com</p>
 
 <h2 style="font-family: Arial, sans-serif;">Recommendations 🌟</h2>
 <p style="font-family: Arial, sans-serif;">Include recommendations or endorsements from colleagues or supervisors, highlighting your skills and accomplishments in DevOps roles.</p>
@@ -44,6 +29,6 @@
 
 ---
 
-<img src="https://example.com/animation.gif" alt="Animation">
+<img src="[https://example.com/animation.gif](https://res.cloudinary.com/practicaldev/image/fetch/s--xAAdUtiT--/c_imagga_scale,f_auto,fl_progressive,h_500,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/zu5cr0j2qczswka4wh39.gif)" alt="Animation">
 
 <p style="font-family: Arial, sans-serif;">Feel free to customize this template according to your specific experiences, projects, and achievements. A well-crafted README file can effectively showcase your skills and attract potential collaborators or employers in the DevOps field.</p>
