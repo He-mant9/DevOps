@@ -15,8 +15,8 @@
 
 
 <h2 style="font-family: Arial, sans-serif;">Contact 📞</h2>
-<p style="font-family: Arial, sans-serif;"><strong>LinkedIn:</strong> <a href="[https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/hemant-khambait-96ab12206/)">Your LinkedIn Profile</a></p>
-<p style="font-family: Arial, sans-serif;"><strong>GitHub:</strong> <a href="[https://github.com/yourprofile](https://github.com/He-mant9)">Your GitHub Profile</a></p>
+<p style="font-family: Arial, sans-serif;"><strong>LinkedIn:</strong> <a href="(https://www.linkedin.com/in/hemant-khambait-96ab12206/)">Your LinkedIn Profile</a></p>
+<p style="font-family: Arial, sans-serif;"><strong>GitHub:</strong> <a href="(https://github.com/He-mant9)">Your GitHub Profile</a></p>
 <p style="font-family: Arial, sans-serif;"><strong>Email:</strong>kumarkhambait20@gmail.com</p>
 
 <h2 style="font-family: Arial, sans-serif;">Recommendations 🌟</h2>
