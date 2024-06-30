@@ -20,3 +20,41 @@
 <p style="font-family: Arial, sans-serif;"><strong>Email:</strong>kumarkhambait20@gmail.com</p>
 
 
+
+
+
+# Hi there! 👋 I'm [Your Name], a DevOps Engineer.
+
+## Skills and Technologies
+
+🚀 CI/CD: Jenkins, GitLab CI/CD, GitHub Actions  
+☁️ Cloud Platforms: AWS, Azure, Google Cloud  
+🐳 Containerization: Docker, Kubernetes  
+🛠️ Configuration Management: Ansible, Terraform  
+📊 Monitoring: Prometheus, Grafana  
+🔧 Tools: Git, Jira, Slack, Shell Scripting  
+
+## Featured Projects
+
+### Project 1: Continuous Deployment Pipeline
+- Automating deployment workflows using Jenkins and Docker
+- [GitHub Repository](https://github.com/yourusername/project1)
+- Technologies: Jenkins, Docker, Shell Scripting
+
+### Project 2: Kubernetes Cluster Setup
+- Setting up a scalable Kubernetes cluster on AWS
+- [GitHub Repository](https://github.com/yourusername/project2)
+- Technologies: Kubernetes, AWS EC2, Terraform
+
+## Certifications and Achievements
+
+- AWS Certified DevOps Engineer - Associate
+- Contributed to open-source projects like [Project X](https://github.com/yourusername/projectX)
+
+## Let's Connect
+
+📫 Reach out to me on [LinkedIn](https://linkedin.com/yourprofile)  
+🐦 Follow me on [Twitter](https://twitter.com/yourhandle)  
+🌐 Visit my [Blog](https://yourblog.com)
+
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/yourusername)
