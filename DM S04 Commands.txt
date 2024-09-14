@@ -6,6 +6,8 @@ http://hub.docker.com
 
 docker image ls
 
+# docker compouse up
+
 docker pull nginx
 
 docker pull nginx:1.11.9
